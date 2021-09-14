@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="ORU_BOResources"
+  DTS:DTSID="{2A96C435-1748-4AC4-A8EA-337F873E0678}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=SQLUAT04;Initial Catalog=BOResources;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-OracleResourceUnload-{2A96C435-1748-4AC4-A8EA-337F873E0678}sqldev04;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
